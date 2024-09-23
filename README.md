@@ -1,1 +1,1 @@
-https://app.netlify.com/sites/canilleras/overview
+https://canilleras.netlify.app/
